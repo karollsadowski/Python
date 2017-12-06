@@ -3,7 +3,7 @@ r = random.randint(1,10)
 print(r)
 
 def hello(name):
-    print ('Hello ' + name,r - i)
+    print ('Hello ' + name, r - i)
 
 def plusOne(nr):
     return nr + 1
